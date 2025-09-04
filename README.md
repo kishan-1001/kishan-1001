@@ -79,7 +79,7 @@ const kishan = {
 - 🔭 **Building:** Next-gen web applications with cutting-edge tech
 - 🌱 **Learning:** Advanced React patterns, serverless architecture
 - 👯 **Collaborating:** On innovative projects that solve real problems
-- ⚡ **Fun fact:** I believe great code is poetry in motion
+- ⚡  ** Problem Solving:** Enhancing my proficiency in Data Structures and Algorithms
 
 ---
 ## 🌐 **Connect With Me**
